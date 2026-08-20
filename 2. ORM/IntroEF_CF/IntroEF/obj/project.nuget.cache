@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YcNUD17Pvog=",
+  "dgSpecHash": "AnGmBWJmbik=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\IntroEF.csproj",
+  "projectFilePath": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxim\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\maxim\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -89,5 +89,15 @@
     "C:\\Users\\maxim\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\maxim\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

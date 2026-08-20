@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\IntroEF.csproj": {}
+    "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\IntroEF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\IntroEF.csproj": {
+    "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\IntroEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\IntroEF.csproj",
+        "projectUniqueName": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
         "projectName": "IntroEF",
-        "projectPath": "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\IntroEF.csproj",
+        "projectPath": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\obj\\",
+        "outputPath": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

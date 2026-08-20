@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntroEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdb81cd21e6a4cfe9c2f84a7a7c4de67af3a13a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntroEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntroEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
