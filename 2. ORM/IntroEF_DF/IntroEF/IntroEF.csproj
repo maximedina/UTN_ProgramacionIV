@@ -1,0 +1,55 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ApplicationDbContext.cs" />
+    <Compile Remove="Controllers\ActoresController.cs" />
+    <Compile Remove="Controllers\ComentariosController.cs" />
+    <Compile Remove="Controllers\GenerosController.cs" />
+    <Compile Remove="Controllers\PeliculasController.cs" />
+    <Compile Remove="Controllers\WeatherForecastController.cs" />
+    <Compile Remove="DTOs\ActorCreacionDTO.cs" />
+    <Compile Remove="DTOs\ActorDTO.cs" />
+    <Compile Remove="DTOs\ComentarioCreacionDTO.cs" />
+    <Compile Remove="DTOs\GeneroCreacionDTO.cs" />
+    <Compile Remove="DTOs\PeliculaActorCreacionDTO.cs" />
+    <Compile Remove="DTOs\PeliculaCreacionDTO.cs" />
+    <Compile Remove="Entidades\Actor.cs" />
+    <Compile Remove="Entidades\Configuraciones\ActorConfig.cs" />
+    <Compile Remove="Entidades\Configuraciones\ComentarioConfig.cs" />
+    <Compile Remove="Entidades\Configuraciones\GeneroConfig.cs" />
+    <Compile Remove="Entidades\Configuraciones\PeliculaActorConfig.cs" />
+    <Compile Remove="Entidades\Configuraciones\PeliculaConfig.cs" />
+    <Compile Remove="Entidades\PeliculaActor.cs" />
+    <Compile Remove="Entidades\Seeding\SeedingInicial.cs" />
+    <Compile Remove="Migrations\20260826001541_Inicial.cs" />
+    <Compile Remove="Migrations\20260826001541_Inicial.Designer.cs" />
+    <Compile Remove="Migrations\ApplicationDbContextModelSnapshot.cs" />
+    <Compile Remove="Utilidades\AutoMapperProfiles.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.30" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.30">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Entidades\Configuraciones\" />
+    <Folder Include="Entidades\Seeding\" />
+    <Folder Include="Migrations\" />
+    <Folder Include="Utilidades\" />
+  </ItemGroup>
+
+</Project>

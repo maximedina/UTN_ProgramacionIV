@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maxim\\source\\repos\\IntroEF\\",
+  "WorkspaceRootPath": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\source\\repos\\introef\\introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_cf\\introef\\migrations\\20260902000820_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\migrations\\20260902000820_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\source\\repos\\introef\\introef\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_cf\\introef\\entidades\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\entidades\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_cf\\introef\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IntroEF\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\appsettings.Development.json",
+              "RelativeToolTip": "IntroEF\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-01T23:49:49.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\Program.cs",
-              "RelativeDocumentMoniker": "IntroEF\\Program.cs",
-              "ToolTip": "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\Program.cs*",
-              "RelativeToolTip": "IntroEF\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Title": "20260902000820_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Migrations\\20260902000820_Inicial.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Migrations\\20260902000820_Inicial.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Migrations\\20260902000820_Inicial.cs",
+              "RelativeToolTip": "IntroEF\\Migrations\\20260902000820_Inicial.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAQwBcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T02:23:15.27Z",
+              "WhenOpened": "2026-09-02T00:08:20.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "IntroEF\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\appsettings.Development.json*",
-              "RelativeToolTip": "IntroEF\\appsettings.Development.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-18T02:45:24.499Z",
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Comentario.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Entidades\\Comentario.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Comentario.cs",
+              "RelativeToolTip": "IntroEF\\Entidades\\Comentario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T00:12:59.878Z",
               "EditorCaption": ""
             }
           ]

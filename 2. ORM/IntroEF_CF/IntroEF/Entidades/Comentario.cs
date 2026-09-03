@@ -1,4 +1,6 @@
-﻿namespace IntroEF.Entidades
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace IntroEF.Entidades
 {
     public class Comentario
     {
