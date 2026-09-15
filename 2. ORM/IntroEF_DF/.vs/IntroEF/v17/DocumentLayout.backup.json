@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_DF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_df\\introef\\entidades\\introefdfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\entidades\\introefdfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_df\\introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_DF\\IntroEF\\Program.cs",
               "RelativeDocumentMoniker": "IntroEF\\Program.cs",
               "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_DF\\IntroEF\\Program.cs",
               "RelativeToolTip": "IntroEF\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-18T02:23:15.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IntroEfdfContext.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_DF\\IntroEF\\Entidades\\IntroEfdfContext.cs",
-              "RelativeDocumentMoniker": "IntroEF\\Entidades\\IntroEfdfContext.cs",
-              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_DF\\IntroEF\\Entidades\\IntroEfdfContext.cs",
-              "RelativeToolTip": "IntroEF\\Entidades\\IntroEfdfContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T22:29:47.452Z",
               "EditorCaption": ""
             }
           ]

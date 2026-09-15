@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_cf\\introef\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_cf\\introef\\entidades\\seeding\\seedinginicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\entidades\\seeding\\seedinginicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_cf\\introef\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_cf\\introef\\entidades\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\entidades\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_cf\\introef\\migrations\\20260902000820_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\migrations\\20260902000820_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_cf\\introef\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -32,35 +40,58 @@
               "RelativeDocumentMoniker": "IntroEF\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\appsettings.Development.json",
               "RelativeToolTip": "IntroEF\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-01T23:49:49.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T23:49:49.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "20260902000820_Inicial.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Migrations\\20260902000820_Inicial.cs",
               "RelativeDocumentMoniker": "IntroEF\\Migrations\\20260902000820_Inicial.cs",
               "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Migrations\\20260902000820_Inicial.cs",
               "RelativeToolTip": "IntroEF\\Migrations\\20260902000820_Inicial.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAQwBcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T00:08:20.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T00:08:20.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Comentario.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Comentario.cs",
               "RelativeDocumentMoniker": "IntroEF\\Entidades\\Comentario.cs",
               "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Comentario.cs",
               "RelativeToolTip": "IntroEF\\Entidades\\Comentario.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T00:12:59.878Z",
+              "WhenOpened": "2026-09-02T00:12:59.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerosController.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Controllers\\GenerosController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\GenerosController.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Controllers\\GenerosController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\GenerosController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T00:13:13.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedingInicial.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Seeding\\SeedingInicial.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Entidades\\Seeding\\SeedingInicial.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Seeding\\SeedingInicial.cs",
+              "RelativeToolTip": "IntroEF\\Entidades\\Seeding\\SeedingInicial.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwEkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T22:11:24.402Z",
               "EditorCaption": ""
             }
           ]

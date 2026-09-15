@@ -68,7 +68,7 @@ namespace IntroEF.Entidades.Seeding
 
             modelBuilder.Entity<Comentario>().HasData(comentarioAvengers, comentarioAvengers2, comentarioNWH);
 
-            // muchos a muchos con salto (esto es poquito avanzado)
+            // muchos a muchos con salto
 
             var tablaGeneroPelicula = "GeneroPelicula";
             var generoIdPropiedad = "GenerosId";
