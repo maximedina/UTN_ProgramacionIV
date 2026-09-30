@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4.MVC-NCapas-Services\\IntroEF_CF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4.mvc-ncapas-services\\introef_cf\\introef\\servicios\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\servicios\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeneroService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4.MVC-NCapas-Services\\IntroEF_CF\\IntroEF\\Servicios\\GeneroService.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Servicios\\GeneroService.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4.MVC-NCapas-Services\\IntroEF_CF\\IntroEF\\Servicios\\GeneroService.cs",
+              "RelativeToolTip": "IntroEF\\Servicios\\GeneroService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T23:51:11.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

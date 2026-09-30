@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_cf\\introef\\controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_cf\\introef\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\utn_programacioniv\\2. orm\\introef_cf\\introef\\entidades\\seeding\\seedinginicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\entidades\\seeding\\seedinginicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\appsettings.Development.json",
               "RelativeDocumentMoniker": "IntroEF\\appsettings.Development.json",
@@ -46,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "20260902000820_Inicial.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Migrations\\20260902000820_Inicial.cs",
               "RelativeDocumentMoniker": "IntroEF\\Migrations\\20260902000820_Inicial.cs",
@@ -58,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Comentario.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Comentario.cs",
               "RelativeDocumentMoniker": "IntroEF\\Entidades\\Comentario.cs",
@@ -76,14 +84,14 @@
               "RelativeDocumentMoniker": "IntroEF\\Controllers\\GenerosController.cs",
               "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Controllers\\GenerosController.cs",
               "RelativeToolTip": "IntroEF\\Controllers\\GenerosController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T00:13:13.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SeedingInicial.cs",
               "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Seeding\\SeedingInicial.cs",
               "RelativeDocumentMoniker": "IntroEF\\Entidades\\Seeding\\SeedingInicial.cs",
@@ -91,7 +99,31 @@
               "RelativeToolTip": "IntroEF\\Entidades\\Seeding\\SeedingInicial.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAQwEkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T22:11:24.402Z",
+              "WhenOpened": "2026-09-08T22:11:24.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "IntroEF\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\WeatherForecast.cs",
+              "RelativeToolTip": "IntroEF\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T23:48:53.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActoresController.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Controllers\\ActoresController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\ActoresController.cs",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\Controllers\\ActoresController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\ActoresController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T00:17:31.558Z",
               "EditorCaption": ""
             }
           ]
