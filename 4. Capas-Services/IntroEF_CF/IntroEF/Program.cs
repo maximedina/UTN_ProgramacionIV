@@ -22,6 +22,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(opciones =>
 builder.Services.AddAutoMapper(typeof(Program));
 
 builder.Services.AddScoped<IGeneroService, GeneroService>();
+builder.Services.AddScoped<IActorService, ActorService>();
+builder.Services.AddScoped<IComentarioService, ComentarioService>();
+builder.Services.AddScoped<IPeliculaService, PeliculaService>();
 
 var app = builder.Build();
 

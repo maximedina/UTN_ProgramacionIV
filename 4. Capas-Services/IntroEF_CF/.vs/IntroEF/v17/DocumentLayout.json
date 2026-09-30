@@ -1,9 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4.MVC-NCapas-Services\\IntroEF_CF\\",
+  "WorkspaceRootPath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4.mvc-ncapas-services\\introef_cf\\introef\\servicios\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services\\introef_cf\\introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services\\introef_cf\\introef\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services\\introef_cf\\introef\\servicios\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\servicios\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services\\introef_cf\\introef\\servicios\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\servicios\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services\\introef_cf\\introef\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services\\introef_cf\\introef\\servicios\\comentarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\servicios\\comentarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services\\introef_cf\\introef\\servicios\\icomentarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\servicios\\icomentarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services\\introef_cf\\introef\\controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services\\introef_cf\\introef\\servicios\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\servicios\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services\\introef_cf\\introef\\servicios\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\servicios\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services\\introef_cf\\introef\\servicios\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\servicios\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "GeneroService.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4.MVC-NCapas-Services\\IntroEF_CF\\IntroEF\\Servicios\\GeneroService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\GeneroService.cs",
               "RelativeDocumentMoniker": "IntroEF\\Servicios\\GeneroService.cs",
-              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4.MVC-NCapas-Services\\IntroEF_CF\\IntroEF\\Servicios\\GeneroService.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\GeneroService.cs",
               "RelativeToolTip": "IntroEF\\Servicios\\GeneroService.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T23:51:11.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IActorService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\IActorService.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Servicios\\IActorService.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\IActorService.cs",
+              "RelativeToolTip": "IntroEF\\Servicios\\IActorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:29:44.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActorService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\ActorService.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Servicios\\ActorService.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\ActorService.cs",
+              "RelativeToolTip": "IntroEF\\Servicios\\ActorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:30:37.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActoresController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Controllers\\ActoresController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\ActoresController.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Controllers\\ActoresController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\ActoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:30:54.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IComentarioService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\IComentarioService.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Servicios\\IComentarioService.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\IComentarioService.cs",
+              "RelativeToolTip": "IntroEF\\Servicios\\IComentarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:31:37.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComentarioService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\ComentarioService.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Servicios\\ComentarioService.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\ComentarioService.cs",
+              "RelativeToolTip": "IntroEF\\Servicios\\ComentarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:32:16.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComentariosController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Controllers\\ComentariosController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\ComentariosController.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Controllers\\ComentariosController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\ComentariosController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:32:46.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPeliculaService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\IPeliculaService.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Servicios\\IPeliculaService.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\IPeliculaService.cs",
+              "RelativeToolTip": "IntroEF\\Servicios\\IPeliculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:33:06.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeliculaService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\PeliculaService.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Servicios\\PeliculaService.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Servicios\\PeliculaService.cs",
+              "RelativeToolTip": "IntroEF\\Servicios\\PeliculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:33:40.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\PeliculasController.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\PeliculasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:34:01.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Program.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\Program.cs",
+              "RelativeToolTip": "IntroEF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:34:21.944Z",
               "EditorCaption": ""
             }
           ]

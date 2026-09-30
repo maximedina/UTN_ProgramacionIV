@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4.MVC-NCapas-Services\\IntroEF_CF\\IntroEF\\IntroEF.csproj": {}
+    "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\IntroEF.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4.MVC-NCapas-Services\\IntroEF_CF\\IntroEF\\IntroEF.csproj": {
+    "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\IntroEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4.MVC-NCapas-Services\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
         "projectName": "IntroEF",
-        "projectPath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4.MVC-NCapas-Services\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
+        "projectPath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4.MVC-NCapas-Services\\IntroEF_CF\\IntroEF\\obj\\",
+        "outputPath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,31 +1,25 @@
-﻿using AutoMapper;
-using IntroEF.DTOs;
-using IntroEF.Entidades;
+﻿using IntroEF.DTOs;
+using IntroEF.Servicios;
 using Microsoft.AspNetCore.Mvc;
 
 namespace IntroEF.Controllers
 {
     [ApiController]
     [Route("api/peliculas/{peliculaId:int}/comentarios")]
-    public class ComentariosController: ControllerBase
+    public class ComentariosController : ControllerBase
     {
-        private readonly ApplicationDbContext context;
-        private readonly IMapper mapper;
+        private readonly IComentarioService servicio;
 
-        public ComentariosController(ApplicationDbContext context, IMapper mapper)
+        public ComentariosController(IComentarioService servicio)
         {
-            this.context = context;
-            this.mapper = mapper;
+            this.servicio = servicio;
         }
 
         [HttpPost]
-        public async Task<ActionResult> Post(int peliculaId, 
+        public async Task<ActionResult> Post(int peliculaId,
             ComentarioCreacionDTO comentarioCreacionDTO)
         {
-            var comentario = mapper.Map<Comentario>(comentarioCreacionDTO);
-            comentario.PeliculaId = peliculaId;
-            context.Add(comentario);
-            await context.SaveChangesAsync();
+            await servicio.Crear(peliculaId, comentarioCreacionDTO);
             return Ok();
         }
     }

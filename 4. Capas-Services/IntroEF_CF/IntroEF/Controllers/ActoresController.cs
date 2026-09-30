@@ -1,53 +1,37 @@
-﻿using AutoMapper;
-using AutoMapper.QueryableExtensions;
-using IntroEF.DTOs;
+﻿using IntroEF.DTOs;
 using IntroEF.Entidades;
+using IntroEF.Servicios;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace IntroEF.Controllers
 {
     [ApiController]
     [Route("api/actores")]
-    public class ActoresController: ControllerBase
+    public class ActoresController : ControllerBase
     {
-        private readonly ApplicationDbContext context;
-        private readonly IMapper mapper;
+        private readonly IActorService servicio;
 
-        public ActoresController(ApplicationDbContext context, IMapper mapper)
+        public ActoresController(IActorService servicio)
         {
-            this.context = context;
-            this.mapper = mapper;
+            this.servicio = servicio;
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Actor>>> Get()
-        {
-            return await context.Actores.OrderByDescending(a => a.FechaNacimiento).ToListAsync();
-        }
+        public async Task<ActionResult<IEnumerable<Actor>>> Get() =>
+            await servicio.ObtenerTodosPorFechaNacimiento();
 
         [HttpGet("nombre")]
-        public async Task<ActionResult<IEnumerable<Actor>>> Get(string nombre)
-        {
-            // Versión 1
-            return await context.Actores
-                .Where(a => a.Nombre == nombre)
-                .OrderBy(a => a.Nombre)
-                    .ThenByDescending(a => a.FechaNacimiento)
-                .ToListAsync();
-        }
+        public async Task<ActionResult<IEnumerable<Actor>>> Get(string nombre) =>
+            await servicio.ObtenerPorNombreExacto(nombre);
 
         [HttpGet("nombre/v2")]
-        public async Task<ActionResult<IEnumerable<Actor>>> GetV2(string nombre)
-        {
-            // Versión 2: Contiene
-            return await context.Actores.Where(a => a.Nombre.Contains(nombre)).ToListAsync();
-        }
+        public async Task<ActionResult<IEnumerable<Actor>>> GetV2(string nombre) =>
+            await servicio.ObtenerPorNombreParcial(nombre);
 
         [HttpGet("{id:int}")]
         public async Task<ActionResult<Actor>> Get(int id)
         {
-            var actor = await context.Actores.FirstOrDefaultAsync(a => a.Id == id);
+            var actor = await servicio.ObtenerPorId(id);
 
             if (actor is null)
             {
@@ -58,19 +42,13 @@ namespace IntroEF.Controllers
         }
 
         [HttpGet("idynombre")]
-        public async Task<ActionResult<IEnumerable<ActorDTO>>> Getidynombre()
-        {
-            return await context.Actores
-                .ProjectTo<ActorDTO>(mapper.ConfigurationProvider)
-                .ToListAsync();
-        }
+        public async Task<ActionResult<IEnumerable<ActorDTO>>> Getidynombre() =>
+            await servicio.ObtenerIdYNombre();
 
         [HttpPost]
         public async Task<ActionResult> Post(ActorCreacionDTO actorCreacionDTO)
         {
-            var actor = mapper.Map<Actor>(actorCreacionDTO);
-            context.Add(actor);
-            await context.SaveChangesAsync();
+            await servicio.Crear(actorCreacionDTO);
             return Ok();
         }
     }

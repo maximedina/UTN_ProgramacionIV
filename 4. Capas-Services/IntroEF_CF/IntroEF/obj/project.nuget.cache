@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "elbMgo/dW8k=",
+  "dgSpecHash": "NT6o+nMQ15w=",
   "success": true,
-  "projectFilePath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4.MVC-NCapas-Services\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
+  "projectFilePath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxim\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\maxim\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
