@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services - copia\\introef_cf\\introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services - copia\\introef_cf\\introef\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services - copia\\introef_cf\\introef\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\Program.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\Program.cs",
+              "RelativeToolTip": "IntroEF\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T23:59:07.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\UsuariosController.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T22:18:45.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\Servicios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Servicios\\UsuarioService.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\Servicios\\UsuarioService.cs",
+              "RelativeToolTip": "IntroEF\\Servicios\\UsuarioService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T22:19:20.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IntroEF</name>
+    </assembly>
+    <members>
+        <member name="M:IntroEF.Controllers.GenerosController.Post(IntroEF.DTOs.GeneroCreacionDTO)">
+            <summary>
+            Crea un nuevo género.
+            </summary>
+            <param name="generoCreacion">Nombre del género a crear.</param>
+            <response code="200">El género se creó correctamente.</response>
+            <response code="400">Ya existe un género con ese nombre.</response>
+        </member>
+        <member name="T:IntroEF.Migrations.Inicial">
+            <inheritdoc />
+        </member>
+        <member name="M:IntroEF.Migrations.Inicial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:IntroEF.Migrations.Inicial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:IntroEF.Migrations.Inicial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:IntroEF.Migrations.AgregarUsuarios">
+            <inheritdoc />
+        </member>
+        <member name="M:IntroEF.Migrations.AgregarUsuarios.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:IntroEF.Migrations.AgregarUsuarios.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:IntroEF.Migrations.AgregarUsuarios.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
