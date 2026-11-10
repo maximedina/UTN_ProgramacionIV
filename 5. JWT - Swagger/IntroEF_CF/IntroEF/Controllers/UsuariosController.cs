@@ -1,6 +1,8 @@
 ﻿using IntroEF.DTOs;
 using IntroEF.Servicios;
 using Microsoft.AspNetCore.Mvc;
+using IntroEF.Entidades;
+using Microsoft.AspNetCore.Authorization;
 
 namespace IntroEF.Controllers
 {
@@ -34,6 +36,20 @@ namespace IntroEF.Controllers
             }
 
             return servicio.ConstruirToken(usuario);
+        }
+
+        [Authorize(Roles = Roles.Admin)]
+        [HttpPut("{id:int}/rol")]
+        public async Task<ActionResult> CambiarRol(int id, CambiarRolDTO cambiarRolDTO)
+        {
+            var actualizado = await servicio.CambiarRol(id, cambiarRolDTO.Rol);
+
+            if (!actualizado)
+            {
+                return NotFound();
+            }
+
+            return NoContent();
         }
     }
 }

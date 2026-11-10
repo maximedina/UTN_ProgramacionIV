@@ -17,6 +17,7 @@ namespace IntroEF.Controllers
             this.servicio = servicio;
         }
 
+        [Authorize(Roles = Roles.User)]
         [HttpGet("{id:int}")]
         public async Task<ActionResult<Pelicula>> Get(int id)
         {
@@ -30,6 +31,7 @@ namespace IntroEF.Controllers
             return pelicula;
         }
 
+        [Authorize(Roles = Roles.User)]
         [HttpGet("select/{id:int}")]
         public async Task<ActionResult> GetSelect(int id)
         {
@@ -43,7 +45,7 @@ namespace IntroEF.Controllers
             return Ok(pelicula);
         }
 
-        [Authorize]
+        [Authorize(Roles = Roles.Admin)]
         [HttpPost]
         public async Task<ActionResult> Post(PeliculaCreacionDTO peliculaCreacionDTO)
         {
@@ -51,7 +53,7 @@ namespace IntroEF.Controllers
             return Ok();
         }
 
-        [Authorize]
+        [Authorize(Roles = Roles.Admin)]
         [HttpDelete("{id:int}/moderna")]
         public async Task<ActionResult> Delete(int id)
         {

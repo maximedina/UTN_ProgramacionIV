@@ -31,10 +31,13 @@ namespace IntroEF.Servicios
                     "Ya existe un usuario con el email " + credenciales.Email);
             }
 
+            // Nota para la clase: contraseña en texto plano solo por simplicidad.
+            // En un proyecto real se usa PasswordHasher<T> o ASP.NET Core Identity.
             var usuario = new Usuario
             {
                 Email = credenciales.Email,
-                Password = credenciales.Password
+                Password = credenciales.Password,
+                Rol = Roles.User // el registro público SIEMPRE crea un User
             };
 
             context.Add(usuario);
@@ -51,6 +54,7 @@ namespace IntroEF.Servicios
             {
                 new Claim(JwtRegisteredClaimNames.Email, usuario.Email),
                 new Claim(JwtRegisteredClaimNames.Sub, usuario.Id.ToString()),
+                new Claim(ClaimTypes.Role, usuario.Rol),
             };
 
             var llave = new SymmetricSecurityKey(
@@ -66,7 +70,32 @@ namespace IntroEF.Servicios
 
             var token = new JwtSecurityTokenHandler().WriteToken(securityToken);
 
-            return new RespuestaAutenticacionDTO { Token = token, Expiracion = expiracion };
+            return new RespuestaAutenticacionDTO
+            {
+                Token = token,
+                Expiracion = expiracion,
+                Rol = usuario.Rol
+            };
+        }
+
+        public async Task<bool> CambiarRol(int id, string rol)
+        {
+            if (!Roles.Todos.Contains(rol))
+            {
+                throw new ReglaDeNegocioException(
+                    $"El rol '{rol}' no es válido. Roles permitidos: {string.Join(", ", Roles.Todos)}");
+            }
+
+            var usuario = await context.Usuarios.FirstOrDefaultAsync(u => u.Id == id);
+
+            if (usuario is null)
+            {
+                return false;
+            }
+
+            usuario.Rol = rol;
+            await context.SaveChangesAsync();
+            return true;
         }
     }
 }

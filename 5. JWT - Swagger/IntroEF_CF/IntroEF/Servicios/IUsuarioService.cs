@@ -8,5 +8,6 @@ namespace IntroEF.Servicios
         Task Registrar(CredencialesUsuarioDTO credenciales);
         Task<Usuario?> ValidarCredenciales(CredencialesUsuarioDTO credenciales);
         RespuestaAutenticacionDTO ConstruirToken(Usuario usuario);
+        Task<bool> CambiarRol(int id, string rol);
     }
 }

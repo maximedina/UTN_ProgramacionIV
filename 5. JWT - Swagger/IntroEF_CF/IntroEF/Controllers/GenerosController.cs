@@ -17,7 +17,7 @@ namespace IntroEF.Controllers
         {
             this.servicio = servicio;
         }
-
+        [Authorize(Roles = Roles.User)]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Genero>>> Get() =>
             await servicio.ObtenerTodos();
@@ -28,7 +28,7 @@ namespace IntroEF.Controllers
         /// <param name="generoCreacion">Nombre del género a crear.</param>
         /// <response code="200">El género se creó correctamente.</response>
         /// <response code="400">Ya existe un género con ese nombre.</response>
-        [Authorize]
+        [Authorize(Roles = Roles.Admin)]
         [HttpPost]
         public async Task<ActionResult> Post(GeneroCreacionDTO generoCreacion)
         {
@@ -36,7 +36,7 @@ namespace IntroEF.Controllers
             return Ok();
         }
 
-        [Authorize]
+        [Authorize(Roles = Roles.Admin)]
         [HttpPost("varios")]
         public async Task<ActionResult> Post(GeneroCreacionDTO[] generosCreacionDTO)
         {
@@ -44,7 +44,7 @@ namespace IntroEF.Controllers
             return Ok();
         }
 
-        [Authorize]
+        [Authorize(Roles = Roles.Admin)]
         [HttpPut("{id:int}/nombre2")]
         public async Task<ActionResult> Put(int id)
         {
@@ -58,7 +58,7 @@ namespace IntroEF.Controllers
             return Ok();
         }
 
-        [Authorize]
+        [Authorize(Roles = Roles.Admin)]
         [HttpPut("{id:int}")]
         public async Task<ActionResult> Put(int id, GeneroCreacionDTO generoCreacionDTO)
         {
@@ -66,7 +66,7 @@ namespace IntroEF.Controllers
             return Ok();
         }
 
-        [Authorize]
+        [Authorize(Roles = Roles.Admin)]
         [HttpDelete("{id:int}/moderna")]
         public async Task<ActionResult> Delete(int id)
         {
@@ -80,7 +80,7 @@ namespace IntroEF.Controllers
             return NoContent();
         }
 
-        [Authorize]
+        [Authorize(Roles = Roles.Admin)]
         [HttpDelete("{id:int}/anterior")]
         public async Task<ActionResult> DeleteAnterior(int id)
         {

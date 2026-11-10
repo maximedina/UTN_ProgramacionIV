@@ -2,6 +2,7 @@
 using IntroEF.Servicios;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using IntroEF.Entidades;
 
 namespace IntroEF.Controllers
 {
@@ -15,8 +16,15 @@ namespace IntroEF.Controllers
         {
             this.servicio = servicio;
         }
-
-        [Authorize]
+        //Cualquier usuario logueado
+        //[Authorize]
+        //COn cualquiera de los dos
+        //[Authorize(Roles = "Admin,User")]
+        [Authorize(Roles = $"{Roles.Admin},{Roles.User}")]
+        
+        //Para requerir ambos
+        //[Authorize(Roles = Roles.Admin)]
+        //[Authorize(Roles = Roles.User)]
         [HttpPost]
         public async Task<ActionResult> Post(int peliculaId,
             ComentarioCreacionDTO comentarioCreacionDTO)

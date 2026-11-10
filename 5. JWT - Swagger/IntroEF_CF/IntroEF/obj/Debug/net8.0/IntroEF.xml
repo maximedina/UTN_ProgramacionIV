@@ -36,5 +36,17 @@
         <member name="M:IntroEF.Migrations.AgregarUsuarios.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
         </member>
+        <member name="T:IntroEF.Migrations.Roles">
+            <inheritdoc />
+        </member>
+        <member name="M:IntroEF.Migrations.Roles.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:IntroEF.Migrations.Roles.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:IntroEF.Migrations.Roles.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
     </members>
 </doc>

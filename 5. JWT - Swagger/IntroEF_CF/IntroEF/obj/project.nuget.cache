@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wRa72lx/twM=",
+  "dgSpecHash": "Lk1ugiAcjsc=",
   "success": true,
-  "projectFilePath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
+  "projectFilePath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxim\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\maxim\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

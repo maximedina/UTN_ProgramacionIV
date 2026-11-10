@@ -16,7 +16,7 @@ namespace IntroEF.Controllers
         {
             this.servicio = servicio;
         }
-
+        [Authorize]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Actor>>> Get() =>
             await servicio.ObtenerTodosPorFechaNacimiento();
@@ -42,11 +42,12 @@ namespace IntroEF.Controllers
             return actor;
         }
 
+        [Authorize(Roles = Roles.User)]
         [HttpGet("idynombre")]
         public async Task<ActionResult<IEnumerable<ActorDTO>>> Getidynombre() =>
             await servicio.ObtenerIdYNombre();
 
-        [Authorize]
+        [Authorize(Roles = Roles.Admin)]
         [HttpPost]
         public async Task<ActionResult> Post(ActorCreacionDTO actorCreacionDTO)
         {

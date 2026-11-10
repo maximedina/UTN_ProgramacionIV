@@ -1,18 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\",
+  "WorkspaceRootPath": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services - copia\\introef_cf\\introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\5. jwt - swagger\\introef_cf\\introef\\controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\5. jwt - swagger\\introef_cf\\introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services - copia\\introef_cf\\introef\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\5. jwt - swagger\\introef_cf\\introef\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\4. capas-services - copia\\introef_cf\\introef\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\5. jwt - swagger\\introef_cf\\introef\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\5. jwt - swagger\\introef_cf\\introef\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\5. jwt - swagger\\introef_cf\\introef\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\5. jwt - swagger\\introef_cf\\introef\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\5. jwt - swagger\\introef_cf\\introef\\servicios\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\servicios\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\5. jwt - swagger\\introef_cf\\introef\\dtos\\respuestaautenticaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\dtos\\respuestaautenticaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\5. jwt - swagger\\introef_cf\\introef\\dtos\\cambiarroldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\dtos\\cambiarroldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Migrations\\20261015220232_Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IntroEF\\Migrations\\20261015220232_Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|d:\\onedrive\\docencia\\utn\\programacion iv\\5. jwt - swagger\\introef_cf\\introef\\entidades\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\entidades\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +58,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Program.cs",
               "RelativeDocumentMoniker": "IntroEF\\Program.cs",
-              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Program.cs",
               "RelativeToolTip": "IntroEF\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T23:59:07.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UsuariosController.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\Controllers\\UsuariosController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "IntroEF\\Controllers\\UsuariosController.cs",
-              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "IntroEF\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Controllers\\UsuariosController.cs*",
+              "RelativeToolTip": "IntroEF\\Controllers\\UsuariosController.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T22:18:45.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UsuarioService.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\Servicios\\UsuarioService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Servicios\\UsuarioService.cs",
               "RelativeDocumentMoniker": "IntroEF\\Servicios\\UsuarioService.cs",
-              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\4. Capas-Services - copia\\IntroEF_CF\\IntroEF\\Servicios\\UsuarioService.cs",
-              "RelativeToolTip": "IntroEF\\Servicios\\UsuarioService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Servicios\\UsuarioService.cs*",
+              "RelativeToolTip": "IntroEF\\Servicios\\UsuarioService.cs*",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwGQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T22:19:20.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Entidades\\Rol.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Entidades\\Rol.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Entidades\\Rol.cs",
+              "RelativeToolTip": "IntroEF\\Entidades\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T21:59:17.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20261015220232_Roles.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Migrations\\20261015220232_Roles.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Migrations\\20261015220232_Roles.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Migrations\\20261015220232_Roles.cs",
+              "RelativeToolTip": "IntroEF\\Migrations\\20261015220232_Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:02:32.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CambiarRolDTO.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\DTOs\\CambiarRolDTO.cs",
+              "RelativeDocumentMoniker": "IntroEF\\DTOs\\CambiarRolDTO.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\DTOs\\CambiarRolDTO.cs*",
+              "RelativeToolTip": "IntroEF\\DTOs\\CambiarRolDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:03:23.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RespuestaAutenticacionDTO.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\DTOs\\RespuestaAutenticacionDTO.cs",
+              "RelativeDocumentMoniker": "IntroEF\\DTOs\\RespuestaAutenticacionDTO.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\DTOs\\RespuestaAutenticacionDTO.cs*",
+              "RelativeToolTip": "IntroEF\\DTOs\\RespuestaAutenticacionDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:03:41.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Servicios\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Servicios\\IUsuarioService.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Servicios\\IUsuarioService.cs*",
+              "RelativeToolTip": "IntroEF\\Servicios\\IUsuarioService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:04:13.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActoresController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Controllers\\ActoresController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\ActoresController.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Controllers\\ActoresController.cs*",
+              "RelativeToolTip": "IntroEF\\Controllers\\ActoresController.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:08:43.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerosController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Controllers\\GenerosController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\GenerosController.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Controllers\\GenerosController.cs*",
+              "RelativeToolTip": "IntroEF\\Controllers\\GenerosController.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:09:50.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\PeliculasController.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Controllers\\PeliculasController.cs*",
+              "RelativeToolTip": "IntroEF\\Controllers\\PeliculasController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:10:27.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComentariosController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Controllers\\ComentariosController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\ComentariosController.cs",
+              "ToolTip": "D:\\OneDrive\\Docencia\\UTN\\Programacion IV\\5. JWT - Swagger\\IntroEF_CF\\IntroEF\\Controllers\\ComentariosController.cs*",
+              "RelativeToolTip": "IntroEF\\Controllers\\ComentariosController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T22:11:43.123Z",
               "EditorCaption": ""
             }
           ]

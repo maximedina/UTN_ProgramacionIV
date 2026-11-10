@@ -287,12 +287,28 @@ namespace IntroEF.Migrations
                         .HasMaxLength(150)
                         .HasColumnType("nvarchar(150)");
 
+                    b.Property<string>("Rol")
+                        .IsRequired()
+                        .ValueGeneratedOnAdd()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)")
+                        .HasDefaultValue("User");
+
                     b.HasKey("Id");
 
                     b.HasIndex("Email")
                         .IsUnique();
 
                     b.ToTable("Usuarios");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 100,
+                            Email = "admin@ejemplo.com",
+                            Password = "Admin123!",
+                            Rol = "Admin"
+                        });
                 });
 
             modelBuilder.Entity("GeneroPelicula", b =>
